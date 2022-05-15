@@ -16,35 +16,25 @@ https://user-images.githubusercontent.com/61911360/168459507-590aa310-e00a-4afd-
 
 画像ファイルは以下の通り．処理の軽量化のため，Unsplashの画像を編集して.gifに変換した．
 
-engin-akyurt-HEMIBJ8QQuA-unsplash.jpg
-
-Photo by engin akyurt on Unsplash
+engin-akyurt-HEMIBJ8QQuA-unsplash.jpg (Photo by engin akyurt on Unsplash)
 
 -> glass.gif
 
 
-jason-mitrione-zHR5YbV-_V0-unsplash.jpg
-
-Photo by Jason Mitrione on Unsplash
+jason-mitrione-zHR5YbV-_V0-unsplash.jpg (Photo by Jason Mitrione on Unsplash)
 
 -> snow.gif
 
-victor-toweet-L7g3Ogj2CFc-unsplash.jpg
-
-Photo by Behnam Norouzi on Unsplash
+victor-toweet-L7g3Ogj2CFc-unsplash.jpg (Photo by Behnam Norouzi on Unsplash)
 
 -> wall.gif
 
 
-sam-victor-yvYtbqaN2bw-unsplash.jpg
-
-Photo by Sam Victor on Unsplash
+sam-victor-yvYtbqaN2bw-unsplash.jpg (Photo by Sam Victor on Unsplash)
 
 -> wood.gif
 
 
-jack-b-4UjcOpLLQSE-unsplash.jpg
-
-Photo by Victor Toweet on Unsplash
+jack-b-4UjcOpLLQSE-unsplash.jpg (Photo by Victor Toweet on Unsplash)
 
 -> isi.gif
